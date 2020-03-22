@@ -1,2 +1,2 @@
 # java_algorithms
-Java Basic Algorothms
+Java Basic Algorithms
