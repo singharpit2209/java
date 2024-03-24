@@ -1,2 +1,7 @@
-# java_algorithms
-Java Basic Algorithms
+# java
+
+Java Basic Concepts Revision
+Advanced Concepts of Java
+Spring Boot
+Gradle Example 
+Maven Example
